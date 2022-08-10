@@ -267,8 +267,12 @@ int main(int argc, const char * argv[]) {
 # 参考文章
 
 [NES APU](https://blog.csdn.net/ZML086/article/details/125645483)
+
 [音视频开发系列（15）使用SDL播放音频](https://blog.csdn.net/yinshipin007/article/details/124134325)
+
 [建议收藏 | 音频属性相关：声道、采样率、采样位数、样本格式、比特率](https://blog.csdn.net/zhying719/article/details/121154726)
+
 [百度百科 正弦波](https://baike.baidu.com/item/%E6%AD%A3%E5%BC%A6%E6%B3%A2)
+
 
 附，关于参数配置 silence，具体含义暂不明确，只知道填 0 即可，这里有个 [相关讨论帖] 。(https://stackoverflow.com/questions/4312660/what-precisely-is-the-silence-value-in-the-sdl-audio-api)
