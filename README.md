@@ -274,5 +274,4 @@ int main(int argc, const char * argv[]) {
 
 [百度百科 正弦波](https://baike.baidu.com/item/%E6%AD%A3%E5%BC%A6%E6%B3%A2)
 
-
-附，关于参数配置 silence，具体含义暂不明确，只知道填 0 即可，这里有个 [相关讨论帖] 。(https://stackoverflow.com/questions/4312660/what-precisely-is-the-silence-value-in-the-sdl-audio-api)
+附，关于参数配置 silence，具体含义暂不明确，只知道填 0 即可，这里有个 [相关讨论帖](https://stackoverflow.com/questions/4312660/what-precisely-is-the-silence-value-in-the-sdl-audio-api) 。
